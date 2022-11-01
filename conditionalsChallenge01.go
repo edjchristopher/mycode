@@ -35,7 +35,7 @@ func main(){
     }
 
     // this should error, x is local to the if-else-if-else block
-    //fmt.Println(x)
+    // fmt.Println(x)
 
 }
 
